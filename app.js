@@ -62,7 +62,7 @@ for (let i = 0; i < words.length; i++) {
         sortedSen += " "; 
     }
 }
-console.log(sortedSen)
+console.log(sortedSen)hgfhfh
 
 for(let j=0; j< sortedSen.length ; j++){
     let char=sortedSen[j]
